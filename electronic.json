@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "title": "CANON camera 120MP-1200hz.01 model",
+            "price": 35000,
+            "image": "./images/camera.jpg"
+        },
+        {
+            "id": 2,
+            "title": "DELL & ACER LAPTOP combo offer ",
+            "price": 80000,
+            "image": "./images/lapy.jpg"
+        },
+        {
+            "id": 3,
+            "title": "IPHONE-13 of 6 colors",
+            "price": 60000,
+            "image": "./images/phone.jpg"
+        },
+        {
+            "id": 4,
+            "title": "APPLE SMART Watch",
+            "price": 8000,
+            "image": "./images/watch.jpg"
+        }
+    ]
+}

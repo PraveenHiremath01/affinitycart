@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "title": "MEN new FASHION BLEZAR size 43",
+            "price": 300,
+            "image": "./images/new3.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Women new top size-33",
+            "price": 265,
+            "image": "./images/new4.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Watch analog BLADZ brand",
+            "price": 999,
+            "image": "./images/watch2.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Shoes RED size-10",
+            "price": 500,
+            "image": "./images/shoes2.jpg"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "title": "COMBO SNACKS",
+            "price": 520,
+            "image": "./images/gr1.jpeg"
+        },
+        {
+            "id": 2,
+            "title": "FRESH vegitables COMBO pack ",
+            "price": 200,
+            "image": "./images/gr2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "OREO Biscuits",
+            "price": 15,
+            "image": "./images/gr3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "HAND sanitiser DETTOL_brand",
+            "price": 98,
+            "image": "./images/gr4.jpg"
+        },
+        {
+            "id": 3,
+            "title": "PERFURMS FOR MEN and WOMEN",
+            "price": 700,
+            "image": "./images/beauty4.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "MEN face Wash",
+            "price": 1000,
+            "image": "./images/beauty3.png"
+        },
+        {
+            "id": 3,
+            "title": "THELLO!! Hair color",
+            "price": 996,
+            "image": "./images/beauty2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Make-up set COMBO",
+            "price": 1000,
+            "image": "./images/beauty1.jpg"
+        }
+    ]
+}

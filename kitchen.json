@@ -1,0 +1,30 @@
+{
+    
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "title": "KITCHEN items COMBO",
+            "price": 360,
+            "image": "./images/kitchen1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "WODDEN TABLE RACK",
+            "price": 5000,
+            "image": "./images/home1.jpg"
+        },
+        {
+            "id": 3,
+            "title": "WINDOW Cloths",
+            "price": 320,
+            "image": "./images/home2.png"
+        },
+        {
+            "id": 4,
+            "title": "MINI LAPTOP table ",
+            "price": 266,
+            "image": "./images/home3.jpg"
+        }
+    ]
+}
